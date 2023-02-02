@@ -1,0 +1,10 @@
+﻿Component,Epic,User Story,Story Points,Assigned,Priority
+Login/Signup,Login,As a user I must be able to login to flight application,2,gauri,high
+Login/Signup,Login,As a user I must be able to enter username and password,2,gauri,high
+Login/Signup,Login,As a user I must be able to login via password,3,gauri,high
+Login/Signup,Login,As a user I must be able to verify mobile number,3,gauri,high
+Search,Find Flight,As a user we must be able to k on return radio button,3,gauri,high
+search,Find Flight,As a user we must be able to k on round trip radio button,2,gauri,high
+search,Find Flight,As a user we must be able to select city in the from radio button,3,gauri,high
+search,Find Flight,As a user we must be able to select city in the to radio button,3,gauri,high
+search,Find Flight,As a user we must be able to select the departture date,2,gauri,high
